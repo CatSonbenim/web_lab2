@@ -1,0 +1,64 @@
+.wall2__wall {
+	width: 300px;
+	height: 500px;
+	background: #FF8B00;
+	border-radius: 100px;
+	border-bottom: 100px solid #FFFFFF;
+	position: absolute;
+	top: 160px;
+	left: 550px;
+}
+
+.wall2__door{
+	width: 100px;
+	height: 200px;
+	background: #4B4B4B;
+	border-radius: 50px;
+	border-bottom: 50px solid #FFFFFF;
+	position: absolute;
+	top: 460px;
+	left: 600px;
+}
+
+.wall2__window1{
+	width: 80px;
+	height: 80px;
+	border: 6px solid #4B4B4B;
+	background: #5A606F;
+	border-radius: 50px;
+	position: absolute;
+	top: 460px;
+	left: 740px;
+}
+
+.wall2__window2{
+	width: 80px;
+	height: 80px;
+	border: 6px solid #4B4B4B;
+	background: #5A606F;
+	border-radius: 50px;
+	position: absolute;
+	top: 280px;
+	left: 625px;
+}
+
+.wall2__knob1{
+	width: 55px;
+	height: 55px;
+	border: 8px solid #5A606F;
+	background: #4B4B4B;
+	border-radius: 50px;
+	position: absolute;
+	top: 523px;
+	left: 614px;
+}
+
+.wall2__knob2{
+	width: 65px;
+	height: 65px;
+	border: 8px dotted #5A606F;
+	border-radius: 50px;
+	position: absolute;
+	top: 518px;
+	left: 610px;
+}

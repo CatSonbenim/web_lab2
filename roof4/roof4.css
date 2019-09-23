@@ -1,0 +1,10 @@
+.roof4{
+	width: 0;
+	height: 0;
+	border-left: 250px solid transparent;
+	border-right: 250px solid transparent;
+	border-bottom: 250px solid #221701;
+	position: static;
+	margin-left: 1300px;
+	margin-top: -600px;
+}
